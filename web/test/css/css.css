@@ -1,0 +1,692 @@
+body{
+	text-align: center;
+	font-size: 1.125rem; /* 18px*/
+	background-color: #9C9997;
+	color: white;
+	font-weight: bold;
+	max-width: 1400px;
+	margin: 0 auto;
+
+
+}
+
+.WRAPPER{
+	width: 98%;
+
+	margin: 10px auto;
+	height: auto;
+	border-radius: 5px;
+
+}
+.myflex{
+	display: 
+}
+li{
+	list-style-type: none;
+}
+
+hr{
+	float: left;
+	width: 200px;
+	height: 1px;
+	color: #C3D42D;
+	background-color:   #C3D42D;
+}
+
+
+
+.text-vertical{
+	font-family: Yeseva One;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 23px;
+	letter-spacing: 0.165em;
+	 transform:rotate(180deg);
+	 writing-mode: tb-rl;
+
+
+	font-size:12px;
+}
+
+
+.actives{
+	color:  red;
+	background-color: red;
+}
+.menu li{
+	display: inline-block;
+	margin-left: 15px;
+	font-family: Yeseva One;
+
+}
+.menu ul{
+	padding-bottom: 0;
+}
+
+.block1{
+	width: 100%;
+	height: 700px;
+	background-image: url(../imgs/fone1.jpg);
+
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.logo{
+	font-family: Yeseva One;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3rem; /* 56px*/
+	line-height:  ;
+	text-align: left;
+
+	color: #FFFFFF;
+}
+
+.logo-info{
+	font-size: 35px;
+	line-height: 40px;
+	text-align: left;
+}
+.menu-background-white{
+	
+	height: 30px;
+}
+.menu-background-white ul div{
+background: #549697;
+	border-radius: 0px 0px 20px 0px;
+}
+
+.block1-img-1{
+	background-image: url(../imgs/1.jpeg);
+
+}
+.block1-img-2{
+	background-image: url(../imgs/2.jpeg);
+}
+.block1-img-3{
+	background-image: url(../imgs/3.jpeg);
+}
+
+
+
+.header-block1 div {
+	margin-left: 0px;
+	margin-right: 0px;
+
+}
+.header-block1 div div {
+
+
+}
+.content-block1{
+	margin-top: 100px;
+	text-align: left;
+}
+.content-block1 span {
+	font-size: 50px;
+	color: #C3D42D;
+}
+.content-block1 div {
+
+}
+.content-block1 div ul{
+	text-align: center;
+}
+.screen-mirou{
+	background: rgba(0, 0, 0, 0.5);
+	mix-blend-mode: normal;
+	border-radius: 20px;
+	color: white;
+	text-align: center;
+
+}
+.text1{
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	font-family: Yeseva One;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 32px;
+
+	color: #FFFFFF;}
+	.text-catalog{
+		margin-left: 10px;
+		margin-top: 10px;
+		margin-right: 10px;
+		font-family: Yeseva One;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		line-height: 132%;
+		/* or 48px */
+
+		text-align: right;
+
+		color: #C3D42D;
+
+	}
+	.catalog-inpu{
+		width:100%;
+		height: 30px;
+		background: #FFFFFF;
+		border-radius: 10px;
+		color: black;
+		text-align: center;
+		margin-top: 25px;
+	}
+	.button-download-catalog{
+		position: relative;
+		width: 160px;
+		height: 60px;
+		background-color: white;
+		border-radius: 10px;
+		margin-top: 20px;
+		color: black;
+		font-family: Yeseva One;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		line-height:25px;
+
+
+		text-align: center;
+
+		color: #000000;
+		z-index:3;
+
+
+	}
+	.button-download-catalog-line{
+	  position: relative;
+	  top: -17px;
+	  z-index: 1;
+	  margin-left: 15px;
+      width: 130px;
+	  height: 20px;
+	  background: #549697;
+	  border-radius: 10px;
+	}
+
+	.button-download-catalog p {
+		font-family: Yeseva One;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		line-height: 23px;
+
+		text-align: center;
+
+		margin-bottom: 0px;
+		padding-top: 5px;
+	}
+	.circle-button-download-catalog{
+		 
+		width: 110px;
+		height: 110px;
+		border-radius: 55px;
+		 
+		border: 5px solid #C3D42D;
+		 
+	}
+	.circle-img-catalog{
+		width: 100%;
+		height: 100%;
+		 
+	}
+
+
+
+
+	/*НАЧАЛО блок №2 block2*/
+	.block2{
+		width: 100%;
+		height: 700px;
+		background-color: white;
+		margin-top: 0;
+		color: black;
+	}
+	.header-block2{
+		border: 1px solid black;
+		height: 30px;
+	}
+	.header-block2 div div p{
+		 
+		 
+	}
+	.content-block2 {
+
+		margin-top: 25px;
+	}
+	.content-block2 span{
+		margin-top: 25px;
+		color: #C3D42D;
+	}
+	.content-block2-img{
+
+		border: 0px solid black;
+	}
+
+	.text{
+		font-family: Yeseva One;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		line-height: 42px;
+		text-align: left;
+
+	}
+	.text-small{
+		margin-left: 150px;
+
+		margin-top: 150px;
+		font-family: Tinos;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+
+		/* or 24px */
+
+		text-align: left;
+		letter-spacing: 0.205em;
+		color: #798187;
+
+	}
+	
+
+
+
+
+
+
+
+
+
+	/*НАЧАЛО блок №3 block3*/
+	.block3{
+		width: 100% ;
+		height: 700px;
+		position: relative;
+		margin-top: 0;
+
+
+
+		background: linear-gradient(180deg, #000000 0%, rgba(255, 255, 255, 0) 48.96%), url(../imgs/2.jpg);
+		background-size: cover;
+		background-repeat: no-repeat;
+
+	}
+	.header-block3{
+		font-family: Yeseva One;
+	}
+	.header-block3 div {
+		margin-left: 0px;
+		margin-right: 0px;
+		color: white;
+
+	}
+	.content-block3{
+		color: white;
+		margin-top: 50px;
+
+	}
+	.miroy1{
+		background: rgba(0, 0, 0, 0.55);
+		font-family: Yeseva One;
+		font-size: 25px;
+		line-height: 29px;
+		box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.25);
+		border-radius: 25px;
+		width: 790px;
+		height: 550px;
+		text-align: left;
+	}
+	.miroy1 span{
+
+		color: #C3D42D;
+		font-size: 45px;
+
+	}
+
+	.miroy2 {
+		background: rgba(0, 0, 0, 0.55);
+
+		box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.25);
+		border-radius: 25px;
+		width: 410px;
+		height: 550px;
+		padding-left: 15px;
+	}
+	.button-start-test{
+		background: white;
+		color: black;
+	}
+	 
+
+	.box{
+		width: 100px;
+		height: 70px;
+		border-radius: 5px;
+		border: 1px solid white;
+
+		margin-top: 10px;
+	}
+	.form-kitchen{
+		border: 1px solid black;
+	}
+	.form-kitchen-box{
+
+		min-width: 150px;
+		height: 100px;
+		background-color: black;
+		 
+		border-radius: 10px;
+
+	 
+	}
+		.form-kitchen-box:hover{
+ 
+		box-shadow: 5px 5px 1px rgba(84, 150, 151, 0.7);
+	}
+	.form-kitchen-active{
+		min-width: 150px;
+		background-color:#C3D42D;
+		box-shadow: 5px 5px 1px #549697;
+		color: white;
+		border-radius: 10px;
+	}
+	/*НАЧАЛО блок №4 block4*/
+	.block4{
+		width: 100%;
+		height: 700px;
+		background-color: white;
+		margin-top: 0;
+		color: black;
+	}
+	.content-block4{
+		margin-top: 60px;
+	}
+	.miroy4{
+		background: rgba(0, 0, 0, 0.55);
+		font-family: Yeseva One;
+		font-size: 25px;
+		line-height: 29px;
+		box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.25);
+		border-radius: 25px;
+
+		text-align: left;
+	}
+	.circle{
+		width: 50px;
+		height: 50px;
+		background: #C3D42D;
+		border-radius: 50px;
+		margin-left: 46%;
+	}
+	.box-article{
+		width: 300px;
+		height: 200px;
+		background: black;
+		color: white;
+		text-align: center;
+		border-radius: 20px;
+	}
+	.box-article:hover{
+ 
+box-shadow: 10px 10px 1px #549697;
+ 
+	}
+	.box-article1{
+		width: 300px;
+		height: 200px;
+
+	}
+
+
+	/*НАЧАЛО блок №5 block5*/
+	.block5{
+		width: 100%;
+		height: 700px;
+		background-color: white;
+		margin-top: 0;
+		color: black;
+		background: red;
+
+		background: rgba(0, 0, 0, 0.5);
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
+	.work-box{
+		width:  ;
+		height: 150px; 
+		background: white;
+
+		border-radius: 20px;
+	}
+
+	/*НАЧАЛО блок №6 block6*/
+	.block6{
+		width: 100%;
+		height: 700px;
+		background-color: white;
+		margin-top: 0;
+		color: black;
+	}
+	.box-my-work{
+		margin: 0 auto;
+		width: 400px;
+		height: 170px;
+
+		background: #FFFFFF;
+		box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.25);
+		text-align: center;
+		font-size: 36px;
+	}
+	/*НАЧАЛО блок №7 block7*/
+	.block7{
+		width: 100%;
+		height: 700px;
+		background: rgba(0, 0, 0, 0.5);
+		margin-top: 0;
+		color: white;
+
+	}
+	.miroy7{
+		width: 543px;
+		height: 473px;
+		background: rgba(10, 10, 10, 0.7);
+		border-radius: 20px;
+	}
+	/*НАЧАЛО блок №8 block8*/
+	.block8{
+		width: 100%;
+		height: 700px;
+		background: white;
+		margin-top: 0;
+		color: black;
+		
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/*Навигационное меню*/
+
+	.slideshow-container {
+		max-width: 1200px;
+
+		margin: auto;
+	}
+	.mySlides {
+		display: none;
+	}
+
+	.dot {
+		cursor: pointer;
+		height: 15px;
+		width: 15px;
+		margin: 0 2px;
+		background-color: #bbb;
+		border-radius: 50%;
+		display: inline-block;
+		transition: background-color 0.6s ease;
+	}
+	.active, .dot:hover {
+		background-color:#C3D42D;
+	}
+	.prev, .next {
+		cursor: pointer;
+		width: auto;
+		color: white;
+		font-weight: bold;
+		font-size: 25px;
+		transition: 0.6s ease;
+		user-select: none; /* Запрте на выделение */
+
+	}
+	.prev:hover, .next:hover {
+		color: #717171;
+	}
+
+
+	.footer-block1{
+		margin-top: 250px;
+
+	}
+	.footer-block1 div{
+
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+
+
+
+	/*Стили иконок SOCIAL*/
+	.conteiner-socialIcons{
+
+	}
+	.socialIcons {
+		padding: 0;
+		margin: 0;
+		list-style-type: none;
+		display: inline-block;
+		position: relative;
+		top: 0px;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		margin: auto;
+		height:  ;
+		text-align: center;
+	}
+	.socialIcons li {
+		display: inline-block;
+
+		margin: 0 auto;
+	}
+	.socialIcons li a {
+		text-align: center;
+		display: inline-block;
+		font-size: 1.5rem;
+		height: 50px;
+		width: 50px;
+		line-height: 50px;
+		color: black;
+		transition: all ease 0.5s;
+		text-shadow: 0px 0px 1px black, 0px 0px 1px black;
+		transform: rotateX(-30deg);
+	}
+	.socialIcons li a:hover {
+		transform: rotateX(-30deg) translateY(-20px);
+	}
+	.socialIcons li a:hover.facebook {
+		color: #365899;
+		text-shadow: 0px 0px 0px #365899,0px 1px 2px #2f4d86,0px 2px 2px #294273,0px 3px 2px #223760,0px 4px 2px #1b2d4e,0px 5px 2px #15223b,0px 6px 2px #0e1728,0px 7px 2px #070c15,0px 8px 2px #010102,0px 9px 2px black,0px 10px 2px black;
+	}
+	.socialIcons li a:hover.twitter {
+		color: #1DA1F2;
+		text-shadow: 0px 0px 0px #1DA1F2,0px 1px 2px #0d95e8,0px 2px 2px #0c85d0,0px 3px 2px #0b76b8,0px 4px 2px #0967a0,0px 5px 2px #085788,0px 6px 2px #064870,0px 7px 2px #053857,0px 8px 2px #04293f,0px 9px 2px #021927,0px 10px 2px #010a0f;
+	}
+	.socialIcons li a:hover.instagram {
+		color: #C32AA3;
+		text-shadow: 0px 0px 0px #C32AA3,0px 1px 2px #ae2591,0px 2px 2px #992180,0px 3px 2px #841c6e,0px 4px 2px #6f185d,0px 5px 2px #5a134b,0px 6px 2px #450f3a,0px 7px 2px #300a28,0px 8px 2px #1b0617,0px 9px 2px #060105,0px 10px 2px black;
+	}
+	.socialIcons li a:hover.googlePlus {
+		color: #DB4437;
+		text-shadow: 0px 0px 0px #DB4437,0px 1px 2px #d33426,0px 2px 2px #bd2e22,0px 3px 2px #a7291e,0px 4px 2px #92241a,0px 5px 2px #7c1e16,0px 6px 2px #671912,0px 7px 2px #51140f,0px 8px 2px #3b0f0b,0px 9px 2px #260907,0px 10px 2px #100403;
+	}
+	.socialIcons li a:hover.youtube {
+		color: #FF0000;
+		text-shadow: 0px 0px 0px #FF0000,0px 1px 2px #e60000,0px 2px 2px #cc0000,0px 3px 2px #b30000,0px 4px 2px #990000,0px 5px 2px maroon,0px 6px 2px #660000,0px 7px 2px #4d0000,0px 8px 2px #330000,0px 9px 2px #1a0000,0px 10px 2px black;
+	}
+
+	/* Fading animation */
+	.fade {
+		-webkit-animation-name: fade;
+		-webkit-animation-duration: 1.5s;
+		animation-name: fade;
+		animation-duration: 1.5s;
+	}
+
+	@-webkit-keyframes fade {
+		from {opacity: .4}
+		to {opacity: 1}
+	}
+
+	@keyframes fade {
+		from {opacity: .4}
+		to {opacity: 1}
+	}
+
+
+@media screen and (max-width:  1100px) {
+ body{
+ 
+	background-color: red;
+}
+
+
+}
+
+@media screen and (max-width:  960px) {
+ body{
+ 
+	background-color: green;
+}
+.logo{
+	font-size: 2rem;
+}
+.text-vertical{
+	display: none;
+}
+.content-block1{
+ 
+	margin-top: 10px;
+ 
+}
+.logo-info{
+	font-size: 20px;
+	 
+
+}
+.logo-info span{
+	font-size: 30px;
+
+	 
+
+}
