@@ -62,9 +62,10 @@ class SitemapController extends AppAdminController
         .$XML."\n</urlset>";
         $fp = fopen($siteRoot . 'sitemap.xml', 'w+') or die('не могу открыть файл sitemap.xml !');
         if (fwrite($fp, $resXML)) {
-            return $this->renderFile('@app/modules/admin/views/alert.php');
+            $msg = 'Успешно!';
         }else {
-            die('ERROR !');
+            $msg = '<span style="color:red">Сбой!</span>';
         }
+        return $this->renderFile('@app/modules/admin/views/alert.php', compact('msg'));
     }
 }
